@@ -1,8 +1,10 @@
-# 概要
+# Table of contents
 
-* [卷 I](part1/README.md)
-    * [写作很棒](part1/writing.md)
-    * [GitBook很酷](part1/gitbook.md)
-* [卷 II](part2/README.md)
-    * [期待反馈](part2/feedback_please.md)
-    * [更好的写作工具](part2/better_tools.md)
+* [Stock Learning](README.md)
+* [技术指标](juan-i/README.md)
+  * [基本概念](juan-i/xie-zuo-hen-bang.md)
+  * [综合灵活运用](juan-i/gitbook-hen-ku.md)
+* [基本面分析技巧](juan-ii/README.md)
+  * [如何看盘面筛股](juan-ii/qi-dai-fan-kui.md)
+  * [不知道要写啥了](juan-ii/geng-hao-de-xie-zuo-gong-ju.md)
+
